@@ -62,6 +62,12 @@ The value of the 32-bit word is computed with this formula:
 
 ![Formula](eq.gif)
 
+in which:
+
+- **W** is the output word (unsigned 32-bit integer)
+- **f** is the frequency requested
+- **C** is the DDS clock
+
 ## License
 
 Arduino sketch for DDS AD9850
