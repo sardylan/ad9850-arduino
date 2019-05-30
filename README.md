@@ -56,6 +56,12 @@ To reset DDS, input `R` and press RETURN, you will read:
 DDS reset...  - Completed!
 ```
 
+### Values
+
+The value of the 32-bit word is computed with this formula:
+
+![Formula](eq.gif)
+
 ## License
 
 Arduino sketch for DDS AD9850
