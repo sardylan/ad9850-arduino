@@ -21,7 +21,7 @@ Arduino | HC-SR08 PCB with AD9850
  **10** | *FU_UD*
  **11** | *W_CLK*
 
-For serial programming, AD9850 requires pin **D0** to be connected to *VCC*, and pins **D1** and **D2** to ground.
+For serial programming, AD9850 requires pin **D2** to be connected to ground, and pins **D1** and **D0** to *VCC*.
 
 ## Usage
 
